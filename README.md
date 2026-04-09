@@ -23,7 +23,7 @@ The live dashboard allows anyone to explore and interact with the data.
 
 ## 🔗 Live Project
 live Google Sheet here:  
-[Click to Open Live Project](https://docs.google.com/spreadsheets/d/1gtTb4ftyLBWyfwlcXuIsXFm_sZ1P2E4KwIUkqoeQWQg/edit?usp=sharing)
+[Click to Open Live Project] (https://docs.google.com/spreadsheets/d/1gtTb4ftyLBWyfwlcXuIsXFm_sZ1P2E4KwIUkqoeQWQg/edit?usp=sharing)
 
 > Visitors can filter, analyze, and explore the sales data in real time.
 
