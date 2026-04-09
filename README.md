@@ -9,7 +9,6 @@ The live dashboard allows anyone to explore and interact with the data.
 
 ## ⚙️ Tools & Technologies
 - Google Sheets (Data management, analysis, visualization)
-- Google Apps Script (Optional, can be added later for automation)
 
 ---
 
@@ -22,13 +21,8 @@ The live dashboard allows anyone to explore and interact with the data.
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard](images/dashboard.png)
-
----
-
 ## 🔗 Live Project
-You can access the live Google Sheet here:  
+live Google Sheet here:  
 [Click to Open Live Project](https://docs.google.com/spreadsheets/d/1gtTb4ftyLBWyfwlcXuIsXFm_sZ1P2E4KwIUkqoeQWQg/edit?usp=sharing)
 
 > Visitors can filter, analyze, and explore the sales data in real time.
